@@ -1,4 +1,4 @@
-quick.check <- function(mod) # quick check concerning fixed effects in lmer
+quick.check <- function(mod) 
   
 {            
   par(mfrow=c(1,2), mar= c(5,4,2,2))
