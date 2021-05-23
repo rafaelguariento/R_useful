@@ -1,3 +1,5 @@
+# Run this script to produce a function named quick.check. Use the function quick.check("your model") to produce useful graphs for visual inspection of model assumptions. 
+
 quick.check <- function(mod) 
   
 {            
