@@ -1,4 +1,4 @@
-### Simple bootstrap
+### Simple bootstrap for the mean of some data (replace the formula in line 7 to bootstrap whatever you want)
 
 data<-c(2,9,7,6,5.5,6.4,4,6.1,5.2,4.9)   # your data here
 
